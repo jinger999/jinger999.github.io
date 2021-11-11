@@ -2,21 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>作业提交</title>
-    <link>https://jinger999.github.io/</link>
+    <link>https://jinger999.github.io.git/</link>
     <description>Recent content on 作业提交</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 11 Nov 2021 15:25:31 +0800</lastBuildDate><atom:link href="https://jinger999.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Nov 2021 15:25:31 +0800</lastBuildDate><atom:link href="https://jinger999.github.io.git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>翻译内容</title>
-      <link>https://jinger999.github.io/post/main/</link>
+      <link>https://jinger999.github.io.git/post/main/</link>
       <pubDate>Thu, 11 Nov 2021 15:25:31 +0800</pubDate>
       
-      <guid>https://jinger999.github.io/post/main/</guid>
+      <guid>https://jinger999.github.io.git/post/main/</guid>
       
-        <description>  Use open source project Hugo（ https://gohugo.io/ ）Build a document website. The documentation website can use any documentation type of topic provided by Hugo itself (theme: https://themes.gohugo.io/tags/documentation/ ）
-  Use the. IO domain name of GitHub page to publish the website code to GitHub page, so that users can access the website through the network.
-  </description>
+        <description>成功啦</description>
       
     </item>
     
