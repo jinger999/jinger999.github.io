@@ -2,17 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 作业提交</title>
-    <link>https://jinger999.github.io/post/</link>
+    <link>https://jinger999.github.io.git/post/</link>
     <description>Recent content in Posts on 作业提交</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 11 Nov 2021 15:25:31 +0800</lastBuildDate><atom:link href="https://jinger999.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Nov 2021 11:30:10 +0800</lastBuildDate><atom:link href="https://jinger999.github.io.git/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third</title>
+      <link>https://jinger999.github.io.git/post/third/</link>
+      <pubDate>Fri, 12 Nov 2021 11:30:10 +0800</pubDate>
+      
+      <guid>https://jinger999.github.io.git/post/third/</guid>
+      
+        <description>一级 二级 ######################################### 换行</description>
+      
+    </item>
+    
+    <item>
+      <title>例：第二个demo</title>
+      <link>https://jinger999.github.io.git/post/second/</link>
+      <pubDate>Fri, 12 Nov 2021 10:18:08 +0800</pubDate>
+      
+      <guid>https://jinger999.github.io.git/post/second/</guid>
+      
+        <description>一级标题 二级标题 三级标题 四级标题  第一步 第二步 第三步  </description>
+      
+    </item>
+    
+    <item>
+      <title>例：第一个demo</title>
+      <link>https://jinger999.github.io.git/post/first/</link>
+      <pubDate>Fri, 12 Nov 2021 10:18:00 +0800</pubDate>
+      
+      <guid>https://jinger999.github.io.git/post/first/</guid>
+      
+        <description>插入链接 [百度网址] (http://baidu.com)
+无序列表  第一点 第二点 第三点  </description>
+      
+    </item>
+    
     <item>
       <title>翻译内容</title>
-      <link>https://jinger999.github.io/post/main/</link>
+      <link>https://jinger999.github.io.git/post/main/</link>
       <pubDate>Thu, 11 Nov 2021 15:25:31 +0800</pubDate>
       
-      <guid>https://jinger999.github.io/post/main/</guid>
+      <guid>https://jinger999.github.io.git/post/main/</guid>
       
         <description>  Use open source project Hugo（https://gohugo.io/）Build a document website. The documentation website can use any documentation type of topic provided by Hugo itself (theme: https://themes.gohugo.io/tags/documentation/).
   Use the. IO domain name of GitHub page to publish the website code to GitHub page, so that users can access the website through the network.
